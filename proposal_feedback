@@ -1,0 +1,30 @@
+Group Proposal Feedback:
+
+Comments
+- Please provide some background info, so that someone unfamiliar with it will be prepared to understand the rest of your proposal.
+
+- Please state your proposal question clearly and in a form of a *predictive question*.
+
+- Great job explaining the dataset. A good idea is to also include the number of observations as well.
+
+- Before getting into the analysis, you should make sure that the data does not contain any missing values. Including a code that checks for missing values would be helpful.
+
+- Make sure you set the seed, so that you get the same results every time you run the codes!
+
+- Why have you decided to use 75% of the dataset as the training data?
+
+- There is an extreme class imbalance in your dataset, how are you planning to deal with the class imbalance? (e.g. upsampling, downsampling, etc.)
+
+- Why are there 2 different summary stats table? especially considering that two of the columns of both tables are the same. Also, no explanation of the summary statistics is given.
+
+- Why is the visualization helpful? no explanation of the visualization is given, and it does not seem very informative for the analysis. I recommend making a plot that can help with the selection of the predictors.
+
+- The plot does not include a title. For the report, please make sure you are labelling your tables and plots.
+
+- The choice of the predictors are not justified.
+
+- Overall, the methods section is very good. One thing that is unclear is: "As part of the tuning step of creating the model, we can create a line chart to show us the optimal K value." Is this referring to the plot of ks vs accuracy? If yes, you should be clear about how you are planning to tune your model (e.g. using cross validation or some other way).
+
+- The expected outcomes and significance should relate to a *predictive question*. Keep in mind, in this project, you are using classification to answer a predictive question. Therefore, you should not be defining "a relationship between type of posts and ratio of the corresponding post’s interaction type". Instead, you should be trying to predict the type of posts using your selected predictors.
+
+- Word count is exceeded
