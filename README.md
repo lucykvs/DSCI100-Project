@@ -1,6 +1,6 @@
 # Data Science Project: Classification of Facebook Post Type Using Social Media Performance Metrics
 
-This project was completed for the undergraduate **Data Science** course at **UBC**. This course gives an intensive introduction to **R** using **JupyterLab**.
+This project was completed for the undergraduate data science course at **UBC**. This course gives an intensive introduction to **R** using **JupyterLab**.
 
 The rapid advancement of technology has transformed the business world. Social media platforms have become the best place for businesses to advertise their brands by increasing customer engagement. This report focuses on the most popular social network worldwide, Facebook, with over 2.7 billion monthly active users. 
 
